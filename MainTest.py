@@ -12,7 +12,7 @@ def test_deleting_file():
 
     # Проверяем, что файл удален
     assert not os.path.exists(file_path), "Файл не был удален"
-
+#tgt5g
 
 def test_deleting_folder():
     # Создаем временную папку

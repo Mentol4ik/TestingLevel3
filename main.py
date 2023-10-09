@@ -15,7 +15,7 @@ text_editor = Text()
 text_editor.grid(column=0, columnspan=2, row=0)
 
 
-
+#del
 def deleting():
     file_path = filedialog.askopenfilename()
     if file_path != "":
