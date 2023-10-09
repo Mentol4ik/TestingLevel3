@@ -1,5 +1,5 @@
 import os
-
+from main import *
 
 def test_deleting_file():
     # Создаем временный файл
